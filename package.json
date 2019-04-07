@@ -2,7 +2,7 @@
   "name": "mdm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stephmansour.github.io/mdm-cheat",
+  "homepage": "https://stephmansour.github.io/mdm",
   "dependencies": {
     "an-array-of-french-words": "^1.0.0",
     "express": "^4.16.4",
